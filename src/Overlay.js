@@ -13,7 +13,7 @@ export default function Overlay({ inside, setInside }) {
           SCROLL TO LOOK INSIDE
         </button>
         <br />
-        Created with love by Anderson Mancini. Using LumaAI for the outside Gaussian Splatting and BlockadeLabs for internal snow globe.
+        Credit to Anderson Mancini. ektogamat/christmas-threejs
       </footer>
     </>
   )
