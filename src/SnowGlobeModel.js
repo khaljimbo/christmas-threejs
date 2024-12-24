@@ -170,7 +170,7 @@ function Texts() {
           fontSize='0.35'
           lineHeight={0.85}
         >
-          You solved all the clues! {'\n\n'} Here are some Minecoins! We can't wait to see what you build
+          Contratulations! {'\n\n'} You solved all the clues! {'\n\n'} You have won 1720 Minecoins for each of you! We can't wait to see what you build!
         </Text>
         <Text
           maxWidth={2.5}
@@ -179,7 +179,7 @@ function Texts() {
           fillOpacity={0.6}
           fontSize='0.1'
         >
-          e660f9df-3257-4ca2-8fc5-0c4bf3f4aef3 {'\n\n'} f2e69d0a-7a7a-4737-a9ce-a64723164a27
+          Lots and lots of love
         </Text>
         <Text
           maxWidth={1.5}
